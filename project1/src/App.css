@@ -1,0 +1,26 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.quote-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  display: inline-block;
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+}
+
+.quote-list {
+  margin-top: 40px;
+}
+
+.saved-quote {
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  margin: 5px;
+  background-color: #f1f1f1;
+}
